@@ -1,6 +1,9 @@
 ![Abhinandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinandanudupa&theme=gruvbox_light&show_icons=true&hide=stars)
 
+![Abhinandan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinandanudupa&theme=gruvbox-light)
+
 <!--START_SECTION:activity-->
+
 
 <!---
 

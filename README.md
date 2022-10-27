@@ -1,5 +1,7 @@
 ![Abhinandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinandanudupa&theme=gruvbox_light&show_icons=true&hide=stars)
 
+<!--START_SECTION:activity-->
+
 <!---
 
 - 👋 Hi, I’m @abhinandanudupa

@@ -28,11 +28,15 @@
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
+### My Stats
 
 ![Abhinandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinandanudupa&theme=gruvbox_light&show_icons=true&hide=stars)
 
+
 ![Abhinandan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinandanudupa&theme=gruvbox-light)
 
+
+### Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#925](https://github.com/Alexays/Waybar/issues/925) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
 2. 🗣 Commented on [#416](https://github.com/Alexays/Waybar/issues/416) in [Alexays/Waybar](https://github.com/Alexays/Waybar)

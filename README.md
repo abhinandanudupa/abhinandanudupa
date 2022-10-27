@@ -34,6 +34,12 @@
 ![Abhinandan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinandanudupa&theme=gruvbox-light)
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#925](https://github.com/Alexays/Waybar/issues/925) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
+2. 🗣 Commented on [#416](https://github.com/Alexays/Waybar/issues/416) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
+3. ❗️ Opened issue [#1958](https://github.com/WasmEdge/WasmEdge/issues/1958) in [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
+4. ❗️ Opened issue [#1957](https://github.com/WasmEdge/WasmEdge/issues/1957) in [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
+5. ❗️ Opened issue [#1956](https://github.com/WasmEdge/WasmEdge/issues/1956) in [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
+<!--END_SECTION:activity-->
 
 ![Gists](https://gists-readme.yizack.com/api?user=abhinandanudupa)
 

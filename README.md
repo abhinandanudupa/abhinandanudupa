@@ -4,12 +4,13 @@
 ### My Skills
 ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
 ![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
@@ -19,13 +20,15 @@
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Jupyter](https://img.shields.io/badge/jupyter-%3776AB.svg?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 ### Operating Systems that I love and use
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+<!-->![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)<!-->
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -37,14 +40,15 @@
 ![Abhinandan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinandanudupa&theme=gruvbox-light)
 
 
-### Recent Activity
-<!--START_SECTION:activity-->
+<!-- ### Recent Activity -->
+<!-- <!--START_SECTION:activity--> -->
+<!--
 1. 🗣 Commented on [#2120](https://github.com/WasmEdge/WasmEdge/issues/2120) in [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
 2. 🗣 Commented on [#2562](https://github.com/hyperledger-tooling/start-here-hyperledger/issues/2562) in [hyperledger-tooling/start-here-hyperledger](https://github.com/hyperledger-tooling/start-here-hyperledger)
 3. 💪 Opened PR [#2121](https://github.com/WasmEdge/WasmEdge/pull/2121) in [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
 4. 🗣 Commented on [#2120](https://github.com/WasmEdge/WasmEdge/issues/2120) in [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
 5. 💪 Opened PR [#2120](https://github.com/WasmEdge/WasmEdge/pull/2120) in [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
-<!--END_SECTION:activity-->
+<!--END_SECTION:activity--> -->
 
 ![Gists](https://gists-readme.yizack.com/api?user=abhinandanudupa)
 

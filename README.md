@@ -39,16 +39,6 @@
 ![Abhinandan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhinandanudupa&theme=gruvbox-light)
 
 
-<!-- ### Recent Activity -->
-<!-- <!--START_SECTION:activity--> -->
-<!--
-1. 🗣 Commented on [#2120](https://github.com/WasmEdge/WasmEdge/issues/2120) in [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
-2. 🗣 Commented on [#2562](https://github.com/hyperledger-tooling/start-here-hyperledger/issues/2562) in [hyperledger-tooling/start-here-hyperledger](https://github.com/hyperledger-tooling/start-here-hyperledger)
-3. 💪 Opened PR [#2121](https://github.com/WasmEdge/WasmEdge/pull/2121) in [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
-4. 🗣 Commented on [#2120](https://github.com/WasmEdge/WasmEdge/issues/2120) in [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
-5. 💪 Opened PR [#2120](https://github.com/WasmEdge/WasmEdge/pull/2120) in [WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)
-<!--END_SECTION:activity--> -->
-
 ![Gists](https://gists-readme.yizack.com/api?user=abhinandanudupa)
 
 

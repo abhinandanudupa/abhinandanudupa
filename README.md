@@ -1,7 +1,14 @@
 ### About me
 
 
-### My Skills
+### Skills
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff&style=for-the-badge)
+![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white&style=for-the-badge)
+
+
+### I work with
 ![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javscript-%F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black&color=F7DF1E)
@@ -16,7 +23,8 @@
 
 
 
-### Tools I Use/Have Used
+### Tools I Use/Have used
+![Alacritty](https://img.shields.io/badge/Alacritty-F46D01?logo=alacritty&logoColor=fff&style=for-the-badge)
 ![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![Jupyter](https://img.shields.io/badge/jupyter-%3776AB.svg?style=for-the-badge&logo=jupyter&logoColor=white&color=F37626)
